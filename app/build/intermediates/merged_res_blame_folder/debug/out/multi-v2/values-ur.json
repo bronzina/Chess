@@ -1,7 +1,7 @@
 {
     "logs": [
         {
-            "outputFile": "/home/andrea/Scrivania/Chess/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-ur/values-ur.xml",
+            "outputFile": "/home/andrea/Scrivania/ChessMultiplayer/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-ur/values-ur.xml",
             "map": [
                 {
                     "source": "/home/andrea/.gradle/caches/transforms-2/files-2.1/dc41f5559c96a47cf4a0f6cf4d8b1c5c/biometric-1.0.1/res/values-ur/values-ur.xml",

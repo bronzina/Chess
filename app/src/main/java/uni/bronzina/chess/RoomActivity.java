@@ -3,9 +3,7 @@ package uni.bronzina.chess;
 import androidx.annotation.NonNull;
 import androidx.appcompat.app.AppCompatActivity;
 
-import android.content.Context;
 import android.content.Intent;
-import android.content.SharedPreferences;
 import android.os.Bundle;
 import android.view.View;
 import android.widget.AdapterView;
@@ -39,9 +37,7 @@ public class RoomActivity extends AppCompatActivity {
     DatabaseReference roomRef;
     DatabaseReference roomsRef;
 
-    FirebaseAuth firebaseAuth;
     FirebaseUser firebaseUser;
-
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
@@ -50,7 +46,6 @@ public class RoomActivity extends AppCompatActivity {
 
         database = FirebaseDatabase.getInstance("https://chess-32d01-default-rtdb.europe-west1.firebasedatabase.app/");
 
-        //SharedPreferences preferences = getSharedPreferences("PREFS", 0);
         firebaseUser = FirebaseAuth.getInstance().getCurrentUser();
         if (firebaseUser != null) {
             playerName = firebaseUser.getDisplayName();
@@ -73,6 +68,7 @@ public class RoomActivity extends AppCompatActivity {
                 button.setEnabled(false);
                 roomName = playerName;
                 roomRef = database.getReference("rooms/" + roomName + "/player1");
+                roomRef.onDisconnect().setValue("");
                 addRoomEventListener();
                 roomRef.setValue(playerName);
             }
@@ -97,10 +93,11 @@ public class RoomActivity extends AppCompatActivity {
             @Override
             public void onDataChange(@NonNull DataSnapshot snapshot) {
                 String user = snapshot.getValue(String.class);
-                if (user != null) {
+                FirebaseUser player = FirebaseAuth.getInstance().getCurrentUser();
+                if(user != player.getDisplayName()) {
                     DatabaseReference player2Ref = database.getReference("rooms/" + roomName + "/player2");
                     player2Ref.setValue(playerName);
-                    SharedPreferences preferences = getSharedPreferences("PREFS", 0);
+                    player2Ref.onDisconnect().setValue("");
                 }
             }
 

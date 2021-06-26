@@ -1,7 +1,7 @@
 {
     "logs": [
         {
-            "outputFile": "/home/andrea/Scrivania/Chess/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-ne/values-ne.xml",
+            "outputFile": "/home/andrea/Scrivania/ChessMultiplayer/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-ne/values-ne.xml",
             "map": [
                 {
                     "source": "/home/andrea/.gradle/caches/transforms-2/files-2.1/ab333d3e18dbe70ca000189a54e652f3/jetified-play-services-basement-17.1.1/res/values-ne/values.xml",

@@ -48,6 +48,7 @@ public class MultiplayerActivity extends AppCompatActivity {
     private FirebaseDatabase database;
     private DatabaseReference moveRef;
     private DatabaseReference turnRef;
+    private DatabaseReference player1Ref;
     private FirebaseUser user;
 
 
@@ -155,7 +156,7 @@ public class MultiplayerActivity extends AppCompatActivity {
             Log.i(TAG, role);
         }
         textView = findViewById(R.id.textView);
-        if(role.equals("host")){
+        if(role.equals("guest")){
             rule = player + ": Move white pieces!";
             textView.setText(rule);
             Drawable dark = getResources().getDrawable(R.drawable.dark);
@@ -405,10 +406,7 @@ public class MultiplayerActivity extends AppCompatActivity {
                 .setNegativeButton("New Game", new DialogInterface.OnClickListener() {
                     @Override
                     public void onClick(DialogInterface dialogInterface, int i) {
-
-                        // First you define it.
                         Intent myintent = new Intent(MultiplayerActivity.this, uni.bronzina.chess.IntroActivity.class);
-                        // Now you call it.
                         startActivity(myintent);
 
                     }
@@ -564,11 +562,5 @@ public class MultiplayerActivity extends AppCompatActivity {
         iv = (ImageView) findViewById(R.id.p62); iv.setClickable(trueORfalse);
         iv = (ImageView) findViewById(R.id.p63); iv.setClickable(trueORfalse);
     }
-
-    /*@Override
-    public void onDestroy(Bundle savedInstanceState){
-        super.onCreate(savedInstanceState);
-        moveRef.setValue("");
-    }*/
 
 }

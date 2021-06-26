@@ -1,218 +1,218 @@
 [
     {
-        "merged": "/home/andrea/Scrivania/Chess/app/build/intermediates/res/merged/debug/mipmap-xxxhdpi_ic_launcher_round.png.flat",
-        "source": "/home/andrea/Scrivania/Chess/app/src/main/res/mipmap-xxxhdpi/ic_launcher_round.png"
+        "merged": "/home/andrea/Scrivania/ChessMultiplayer/app/build/intermediates/res/merged/debug/layout_activity_multiplayer.xml.flat",
+        "source": "/home/andrea/Scrivania/ChessMultiplayer/app/src/main/res/layout/activity_multiplayer.xml"
     },
     {
-        "merged": "/home/andrea/Scrivania/Chess/app/build/intermediates/res/merged/debug/drawable_ic_account_circle_primarycolor_24dp.xml.flat",
-        "source": "/home/andrea/Scrivania/Chess/app/src/main/res/drawable/ic_account_circle_primarycolor_24dp.xml"
+        "merged": "/home/andrea/Scrivania/ChessMultiplayer/app/build/intermediates/res/merged/debug/drawable_wq.png.flat",
+        "source": "/home/andrea/Scrivania/ChessMultiplayer/app/src/main/res/drawable/wq.png"
     },
     {
-        "merged": "/home/andrea/Scrivania/Chess/app/build/intermediates/res/merged/debug/layout_activity_signup.xml.flat",
-        "source": "/home/andrea/Scrivania/Chess/app/src/main/res/layout/activity_signup.xml"
+        "merged": "/home/andrea/Scrivania/ChessMultiplayer/app/build/intermediates/res/merged/debug/drawable_justboard.png.flat",
+        "source": "/home/andrea/Scrivania/ChessMultiplayer/app/src/main/res/drawable/justboard.png"
     },
     {
-        "merged": "/home/andrea/Scrivania/Chess/app/build/intermediates/res/merged/debug/drawable_wb.png.flat",
-        "source": "/home/andrea/Scrivania/Chess/app/src/main/res/drawable/wb.png"
+        "merged": "/home/andrea/Scrivania/ChessMultiplayer/app/build/intermediates/res/merged/debug/mipmap-hdpi_ic_launcher_round.png.flat",
+        "source": "/home/andrea/Scrivania/ChessMultiplayer/app/src/main/res/mipmap-hdpi/ic_launcher_round.png"
     },
     {
-        "merged": "/home/andrea/Scrivania/Chess/app/build/intermediates/res/merged/debug/mipmap-xxxhdpi_ic_launcher.png.flat",
-        "source": "/home/andrea/Scrivania/Chess/app/src/main/res/mipmap-xxxhdpi/ic_launcher.png"
+        "merged": "/home/andrea/Scrivania/ChessMultiplayer/app/build/intermediates/res/merged/debug/layout_content_about.xml.flat",
+        "source": "/home/andrea/Scrivania/ChessMultiplayer/app/src/main/res/layout/content_about.xml"
     },
     {
-        "merged": "/home/andrea/Scrivania/Chess/app/build/intermediates/res/merged/debug/drawable_wordpressicon.png.flat",
-        "source": "/home/andrea/Scrivania/Chess/app/src/main/res/drawable/wordpressicon.png"
+        "merged": "/home/andrea/Scrivania/ChessMultiplayer/app/build/intermediates/res/merged/debug/drawable_knpwn.png.flat",
+        "source": "/home/andrea/Scrivania/ChessMultiplayer/app/src/main/res/drawable/knpwn.png"
     },
     {
-        "merged": "/home/andrea/Scrivania/Chess/app/build/intermediates/res/merged/debug/menu_menu_intro.xml.flat",
-        "source": "/home/andrea/Scrivania/Chess/app/src/main/res/menu/menu_intro.xml"
+        "merged": "/home/andrea/Scrivania/ChessMultiplayer/app/build/intermediates/res/merged/debug/mipmap-xhdpi_ic_launcher.png.flat",
+        "source": "/home/andrea/Scrivania/ChessMultiplayer/app/src/main/res/mipmap-xhdpi/ic_launcher.png"
     },
     {
-        "merged": "/home/andrea/Scrivania/Chess/app/build/intermediates/res/merged/debug/layout_content_about.xml.flat",
-        "source": "/home/andrea/Scrivania/Chess/app/src/main/res/layout/content_about.xml"
+        "merged": "/home/andrea/Scrivania/ChessMultiplayer/app/build/intermediates/res/merged/debug/layout_activity_signin.xml.flat",
+        "source": "/home/andrea/Scrivania/ChessMultiplayer/app/src/main/res/layout/activity_signin.xml"
     },
     {
-        "merged": "/home/andrea/Scrivania/Chess/app/build/intermediates/res/merged/debug/mipmap-xhdpi_ic_launcher_round.png.flat",
-        "source": "/home/andrea/Scrivania/Chess/app/src/main/res/mipmap-xhdpi/ic_launcher_round.png"
+        "merged": "/home/andrea/Scrivania/ChessMultiplayer/app/build/intermediates/res/merged/debug/drawable_chess_board.png.flat",
+        "source": "/home/andrea/Scrivania/ChessMultiplayer/app/src/main/res/drawable/chess_board.png"
     },
     {
-        "merged": "/home/andrea/Scrivania/Chess/app/build/intermediates/res/merged/debug/drawable_knpwn.png.flat",
-        "source": "/home/andrea/Scrivania/Chess/app/src/main/res/drawable/knpwn.png"
+        "merged": "/home/andrea/Scrivania/ChessMultiplayer/app/build/intermediates/res/merged/debug/drawable_wn.png.flat",
+        "source": "/home/andrea/Scrivania/ChessMultiplayer/app/src/main/res/drawable/wn.png"
     },
     {
-        "merged": "/home/andrea/Scrivania/Chess/app/build/intermediates/res/merged/debug/drawable_br.png.flat",
-        "source": "/home/andrea/Scrivania/Chess/app/src/main/res/drawable/br.png"
+        "merged": "/home/andrea/Scrivania/ChessMultiplayer/app/build/intermediates/res/merged/debug/mipmap-hdpi_ic_launcher.png.flat",
+        "source": "/home/andrea/Scrivania/ChessMultiplayer/app/src/main/res/mipmap-hdpi/ic_launcher.png"
     },
     {
-        "merged": "/home/andrea/Scrivania/Chess/app/build/intermediates/res/merged/debug/drawable_wq.png.flat",
-        "source": "/home/andrea/Scrivania/Chess/app/src/main/res/drawable/wq.png"
+        "merged": "/home/andrea/Scrivania/ChessMultiplayer/app/build/intermediates/res/merged/debug/layout_activity_main.xml.flat",
+        "source": "/home/andrea/Scrivania/ChessMultiplayer/app/src/main/res/layout/activity_main.xml"
     },
     {
-        "merged": "/home/andrea/Scrivania/Chess/app/build/intermediates/res/merged/debug/layout_activity_play.xml.flat",
-        "source": "/home/andrea/Scrivania/Chess/app/src/main/res/layout/activity_play.xml"
+        "merged": "/home/andrea/Scrivania/ChessMultiplayer/app/build/intermediates/res/merged/debug/layout_content_main.xml.flat",
+        "source": "/home/andrea/Scrivania/ChessMultiplayer/app/src/main/res/layout/content_main.xml"
     },
     {
-        "merged": "/home/andrea/Scrivania/Chess/app/build/intermediates/res/merged/debug/drawable_chess_board.png.flat",
-        "source": "/home/andrea/Scrivania/Chess/app/src/main/res/drawable/chess_board.png"
+        "merged": "/home/andrea/Scrivania/ChessMultiplayer/app/build/intermediates/res/merged/debug/layout_activity_about.xml.flat",
+        "source": "/home/andrea/Scrivania/ChessMultiplayer/app/src/main/res/layout/activity_about.xml"
     },
     {
-        "merged": "/home/andrea/Scrivania/Chess/app/build/intermediates/res/merged/debug/layout_activity_about.xml.flat",
-        "source": "/home/andrea/Scrivania/Chess/app/src/main/res/layout/activity_about.xml"
+        "merged": "/home/andrea/Scrivania/ChessMultiplayer/app/build/intermediates/res/merged/debug/drawable_bb.png.flat",
+        "source": "/home/andrea/Scrivania/ChessMultiplayer/app/src/main/res/drawable/bb.png"
     },
     {
-        "merged": "/home/andrea/Scrivania/Chess/app/build/intermediates/res/merged/debug/drawable_bk.png.flat",
-        "source": "/home/andrea/Scrivania/Chess/app/src/main/res/drawable/bk.png"
+        "merged": "/home/andrea/Scrivania/ChessMultiplayer/app/build/intermediates/res/merged/debug/drawable_wp.png.flat",
+        "source": "/home/andrea/Scrivania/ChessMultiplayer/app/src/main/res/drawable/wp.png"
     },
     {
-        "merged": "/home/andrea/Scrivania/Chess/app/build/intermediates/res/merged/debug/drawable_highlight.png.flat",
-        "source": "/home/andrea/Scrivania/Chess/app/src/main/res/drawable/highlight.png"
+        "merged": "/home/andrea/Scrivania/ChessMultiplayer/app/build/intermediates/res/merged/debug/mipmap-xxxhdpi_ic_launcher_round.png.flat",
+        "source": "/home/andrea/Scrivania/ChessMultiplayer/app/src/main/res/mipmap-xxxhdpi/ic_launcher_round.png"
     },
     {
-        "merged": "/home/andrea/Scrivania/Chess/app/build/intermediates/res/merged/debug/drawable_bn.png.flat",
-        "source": "/home/andrea/Scrivania/Chess/app/src/main/res/drawable/bn.png"
+        "merged": "/home/andrea/Scrivania/ChessMultiplayer/app/build/intermediates/res/merged/debug/mipmap-xhdpi_ic_launcher_round.png.flat",
+        "source": "/home/andrea/Scrivania/ChessMultiplayer/app/src/main/res/mipmap-xhdpi/ic_launcher_round.png"
     },
     {
-        "merged": "/home/andrea/Scrivania/Chess/app/build/intermediates/res/merged/debug/drawable_justboard.png.flat",
-        "source": "/home/andrea/Scrivania/Chess/app/src/main/res/drawable/justboard.png"
+        "merged": "/home/andrea/Scrivania/ChessMultiplayer/app/build/intermediates/res/merged/debug/layout_activity_play.xml.flat",
+        "source": "/home/andrea/Scrivania/ChessMultiplayer/app/src/main/res/layout/activity_play.xml"
     },
     {
-        "merged": "/home/andrea/Scrivania/Chess/app/build/intermediates/res/merged/debug/drawable_ic_phone_primarycolor_24dp.xml.flat",
-        "source": "/home/andrea/Scrivania/Chess/app/src/main/res/drawable/ic_phone_primarycolor_24dp.xml"
+        "merged": "/home/andrea/Scrivania/ChessMultiplayer/app/build/intermediates/res/merged/debug/layout_content_multiplayer.xml.flat",
+        "source": "/home/andrea/Scrivania/ChessMultiplayer/app/src/main/res/layout/content_multiplayer.xml"
     },
     {
-        "merged": "/home/andrea/Scrivania/Chess/app/build/intermediates/res/merged/debug/drawable_wn.png.flat",
-        "source": "/home/andrea/Scrivania/Chess/app/src/main/res/drawable/wn.png"
+        "merged": "/home/andrea/Scrivania/ChessMultiplayer/app/build/intermediates/res/merged/debug/mipmap-xxxhdpi_ic_launcher.png.flat",
+        "source": "/home/andrea/Scrivania/ChessMultiplayer/app/src/main/res/mipmap-xxxhdpi/ic_launcher.png"
     },
     {
-        "merged": "/home/andrea/Scrivania/Chess/app/build/intermediates/res/merged/debug/drawable_dark.png.flat",
-        "source": "/home/andrea/Scrivania/Chess/app/src/main/res/drawable/dark.png"
+        "merged": "/home/andrea/Scrivania/ChessMultiplayer/app/build/intermediates/res/merged/debug/menu_menu_main.xml.flat",
+        "source": "/home/andrea/Scrivania/ChessMultiplayer/app/src/main/res/menu/menu_main.xml"
     },
     {
-        "merged": "/home/andrea/Scrivania/Chess/app/build/intermediates/res/merged/debug/layout_activity_settings.xml.flat",
-        "source": "/home/andrea/Scrivania/Chess/app/src/main/res/layout/activity_settings.xml"
+        "merged": "/home/andrea/Scrivania/ChessMultiplayer/app/build/intermediates/res/merged/debug/drawable_bp.png.flat",
+        "source": "/home/andrea/Scrivania/ChessMultiplayer/app/src/main/res/drawable/bp.png"
     },
     {
-        "merged": "/home/andrea/Scrivania/Chess/app/build/intermediates/res/merged/debug/drawable_question.png.flat",
-        "source": "/home/andrea/Scrivania/Chess/app/src/main/res/drawable/question.png"
+        "merged": "/home/andrea/Scrivania/ChessMultiplayer/app/build/intermediates/res/merged/debug/drawable_light.png.flat",
+        "source": "/home/andrea/Scrivania/ChessMultiplayer/app/src/main/res/drawable/light.png"
     },
     {
-        "merged": "/home/andrea/Scrivania/Chess/app/build/intermediates/res/merged/debug/layout_activity_multiplayer.xml.flat",
-        "source": "/home/andrea/Scrivania/Chess/app/src/main/res/layout/activity_multiplayer.xml"
+        "merged": "/home/andrea/Scrivania/ChessMultiplayer/app/build/intermediates/res/merged/debug/drawable_wordpressicon.png.flat",
+        "source": "/home/andrea/Scrivania/ChessMultiplayer/app/src/main/res/drawable/wordpressicon.png"
     },
     {
-        "merged": "/home/andrea/Scrivania/Chess/app/build/intermediates/res/merged/debug/drawable_wr.png.flat",
-        "source": "/home/andrea/Scrivania/Chess/app/src/main/res/drawable/wr.png"
+        "merged": "/home/andrea/Scrivania/ChessMultiplayer/app/build/intermediates/res/merged/debug/drawable_highlight.png.flat",
+        "source": "/home/andrea/Scrivania/ChessMultiplayer/app/src/main/res/drawable/highlight.png"
     },
     {
-        "merged": "/home/andrea/Scrivania/Chess/app/build/intermediates/res/merged/debug/mipmap-xxhdpi_ic_launcher.png.flat",
-        "source": "/home/andrea/Scrivania/Chess/app/src/main/res/mipmap-xxhdpi/ic_launcher.png"
+        "merged": "/home/andrea/Scrivania/ChessMultiplayer/app/build/intermediates/res/merged/debug/drawable_githubicon.png.flat",
+        "source": "/home/andrea/Scrivania/ChessMultiplayer/app/src/main/res/drawable/githubicon.png"
     },
     {
-        "merged": "/home/andrea/Scrivania/Chess/app/build/intermediates/res/merged/debug/layout_activity_intro.xml.flat",
-        "source": "/home/andrea/Scrivania/Chess/app/src/main/res/layout/activity_intro.xml"
+        "merged": "/home/andrea/Scrivania/ChessMultiplayer/app/build/intermediates/res/merged/debug/mipmap-xxhdpi_ic_launcher.png.flat",
+        "source": "/home/andrea/Scrivania/ChessMultiplayer/app/src/main/res/mipmap-xxhdpi/ic_launcher.png"
     },
     {
-        "merged": "/home/andrea/Scrivania/Chess/app/build/intermediates/res/merged/debug/layout_content_multiplayer.xml.flat",
-        "source": "/home/andrea/Scrivania/Chess/app/src/main/res/layout/content_multiplayer.xml"
+        "merged": "/home/andrea/Scrivania/ChessMultiplayer/app/build/intermediates/res/merged/debug/drawable_ic_phone_primarycolor_24dp.xml.flat",
+        "source": "/home/andrea/Scrivania/ChessMultiplayer/app/src/main/res/drawable/ic_phone_primarycolor_24dp.xml"
     },
     {
-        "merged": "/home/andrea/Scrivania/Chess/app/build/intermediates/res/merged/debug/drawable_bq.png.flat",
-        "source": "/home/andrea/Scrivania/Chess/app/src/main/res/drawable/bq.png"
+        "merged": "/home/andrea/Scrivania/ChessMultiplayer/app/build/intermediates/res/merged/debug/drawable_empty.png.flat",
+        "source": "/home/andrea/Scrivania/ChessMultiplayer/app/src/main/res/drawable/empty.png"
     },
     {
-        "merged": "/home/andrea/Scrivania/Chess/app/build/intermediates/res/merged/debug/drawable_empty.png.flat",
-        "source": "/home/andrea/Scrivania/Chess/app/src/main/res/drawable/empty.png"
+        "merged": "/home/andrea/Scrivania/ChessMultiplayer/app/build/intermediates/res/merged/debug/drawable_bq.png.flat",
+        "source": "/home/andrea/Scrivania/ChessMultiplayer/app/src/main/res/drawable/bq.png"
     },
     {
-        "merged": "/home/andrea/Scrivania/Chess/app/build/intermediates/res/merged/debug/drawable_wk.png.flat",
-        "source": "/home/andrea/Scrivania/Chess/app/src/main/res/drawable/wk.png"
+        "merged": "/home/andrea/Scrivania/ChessMultiplayer/app/build/intermediates/res/merged/debug/drawable_chess_set.png.flat",
+        "source": "/home/andrea/Scrivania/ChessMultiplayer/app/src/main/res/drawable/chess_set.png"
     },
     {
-        "merged": "/home/andrea/Scrivania/Chess/app/build/intermediates/res/merged/debug/layout_activity_reset_password.xml.flat",
-        "source": "/home/andrea/Scrivania/Chess/app/src/main/res/layout/activity_reset_password.xml"
+        "merged": "/home/andrea/Scrivania/ChessMultiplayer/app/build/intermediates/res/merged/debug/layout_activity_settings.xml.flat",
+        "source": "/home/andrea/Scrivania/ChessMultiplayer/app/src/main/res/layout/activity_settings.xml"
     },
     {
-        "merged": "/home/andrea/Scrivania/Chess/app/build/intermediates/res/merged/debug/layout_activity_room.xml.flat",
-        "source": "/home/andrea/Scrivania/Chess/app/src/main/res/layout/activity_room.xml"
+        "merged": "/home/andrea/Scrivania/ChessMultiplayer/app/build/intermediates/res/merged/debug/drawable_question.png.flat",
+        "source": "/home/andrea/Scrivania/ChessMultiplayer/app/src/main/res/drawable/question.png"
     },
     {
-        "merged": "/home/andrea/Scrivania/Chess/app/build/intermediates/res/merged/debug/layout_content_intro.xml.flat",
-        "source": "/home/andrea/Scrivania/Chess/app/src/main/res/layout/content_intro.xml"
+        "merged": "/home/andrea/Scrivania/ChessMultiplayer/app/build/intermediates/res/merged/debug/layout_content_intro.xml.flat",
+        "source": "/home/andrea/Scrivania/ChessMultiplayer/app/src/main/res/layout/content_intro.xml"
     },
     {
-        "merged": "/home/andrea/Scrivania/Chess/app/build/intermediates/res/merged/debug/mipmap-hdpi_ic_launcher.png.flat",
-        "source": "/home/andrea/Scrivania/Chess/app/src/main/res/mipmap-hdpi/ic_launcher.png"
+        "merged": "/home/andrea/Scrivania/ChessMultiplayer/app/build/intermediates/res/merged/debug/layout_activity_signup.xml.flat",
+        "source": "/home/andrea/Scrivania/ChessMultiplayer/app/src/main/res/layout/activity_signup.xml"
     },
     {
-        "merged": "/home/andrea/Scrivania/Chess/app/build/intermediates/res/merged/debug/mipmap-mdpi_ic_launcher_round.png.flat",
-        "source": "/home/andrea/Scrivania/Chess/app/src/main/res/mipmap-mdpi/ic_launcher_round.png"
+        "merged": "/home/andrea/Scrivania/ChessMultiplayer/app/build/intermediates/res/merged/debug/drawable_bk.png.flat",
+        "source": "/home/andrea/Scrivania/ChessMultiplayer/app/src/main/res/drawable/bk.png"
     },
     {
-        "merged": "/home/andrea/Scrivania/Chess/app/build/intermediates/res/merged/debug/drawable_githubicon.png.flat",
-        "source": "/home/andrea/Scrivania/Chess/app/src/main/res/drawable/githubicon.png"
+        "merged": "/home/andrea/Scrivania/ChessMultiplayer/app/build/intermediates/res/merged/debug/drawable_wr.png.flat",
+        "source": "/home/andrea/Scrivania/ChessMultiplayer/app/src/main/res/drawable/wr.png"
     },
     {
-        "merged": "/home/andrea/Scrivania/Chess/app/build/intermediates/res/merged/debug/drawable_ic_email_primarycolor_24dp.xml.flat",
-        "source": "/home/andrea/Scrivania/Chess/app/src/main/res/drawable/ic_email_primarycolor_24dp.xml"
+        "merged": "/home/andrea/Scrivania/ChessMultiplayer/app/build/intermediates/res/merged/debug/layout_activity_reset_password.xml.flat",
+        "source": "/home/andrea/Scrivania/ChessMultiplayer/app/src/main/res/layout/activity_reset_password.xml"
     },
     {
-        "merged": "/home/andrea/Scrivania/Chess/app/build/intermediates/res/merged/debug/drawable_suggested.png.flat",
-        "source": "/home/andrea/Scrivania/Chess/app/src/main/res/drawable/suggested.png"
+        "merged": "/home/andrea/Scrivania/ChessMultiplayer/app/build/intermediates/res/merged/debug/drawable_ic_email_primarycolor_24dp.xml.flat",
+        "source": "/home/andrea/Scrivania/ChessMultiplayer/app/src/main/res/drawable/ic_email_primarycolor_24dp.xml"
     },
     {
-        "merged": "/home/andrea/Scrivania/Chess/app/build/intermediates/res/merged/debug/mipmap-xhdpi_ic_launcher.png.flat",
-        "source": "/home/andrea/Scrivania/Chess/app/src/main/res/mipmap-xhdpi/ic_launcher.png"
+        "merged": "/home/andrea/Scrivania/ChessMultiplayer/app/build/intermediates/res/merged/debug/drawable_wb.png.flat",
+        "source": "/home/andrea/Scrivania/ChessMultiplayer/app/src/main/res/drawable/wb.png"
     },
     {
-        "merged": "/home/andrea/Scrivania/Chess/app/build/intermediates/res/merged/debug/drawable_bp.png.flat",
-        "source": "/home/andrea/Scrivania/Chess/app/src/main/res/drawable/bp.png"
+        "merged": "/home/andrea/Scrivania/ChessMultiplayer/app/build/intermediates/res/merged/debug/mipmap-xxhdpi_ic_launcher_round.png.flat",
+        "source": "/home/andrea/Scrivania/ChessMultiplayer/app/src/main/res/mipmap-xxhdpi/ic_launcher_round.png"
     },
     {
-        "merged": "/home/andrea/Scrivania/Chess/app/build/intermediates/res/merged/debug/layout_content_settings.xml.flat",
-        "source": "/home/andrea/Scrivania/Chess/app/src/main/res/layout/content_settings.xml"
+        "merged": "/home/andrea/Scrivania/ChessMultiplayer/app/build/intermediates/res/merged/debug/drawable_wk.png.flat",
+        "source": "/home/andrea/Scrivania/ChessMultiplayer/app/src/main/res/drawable/wk.png"
     },
     {
-        "merged": "/home/andrea/Scrivania/Chess/app/build/intermediates/res/merged/debug/drawable_light.png.flat",
-        "source": "/home/andrea/Scrivania/Chess/app/src/main/res/drawable/light.png"
+        "merged": "/home/andrea/Scrivania/ChessMultiplayer/app/build/intermediates/res/merged/debug/drawable_br.png.flat",
+        "source": "/home/andrea/Scrivania/ChessMultiplayer/app/src/main/res/drawable/br.png"
     },
     {
-        "merged": "/home/andrea/Scrivania/Chess/app/build/intermediates/res/merged/debug/layout_activity_main.xml.flat",
-        "source": "/home/andrea/Scrivania/Chess/app/src/main/res/layout/activity_main.xml"
+        "merged": "/home/andrea/Scrivania/ChessMultiplayer/app/build/intermediates/res/merged/debug/menu_menu_intro.xml.flat",
+        "source": "/home/andrea/Scrivania/ChessMultiplayer/app/src/main/res/menu/menu_intro.xml"
     },
     {
-        "merged": "/home/andrea/Scrivania/Chess/app/build/intermediates/res/merged/debug/layout_activity_signin.xml.flat",
-        "source": "/home/andrea/Scrivania/Chess/app/src/main/res/layout/activity_signin.xml"
+        "merged": "/home/andrea/Scrivania/ChessMultiplayer/app/build/intermediates/res/merged/debug/layout_content_settings.xml.flat",
+        "source": "/home/andrea/Scrivania/ChessMultiplayer/app/src/main/res/layout/content_settings.xml"
     },
     {
-        "merged": "/home/andrea/Scrivania/Chess/app/build/intermediates/res/merged/debug/mipmap-hdpi_ic_launcher_round.png.flat",
-        "source": "/home/andrea/Scrivania/Chess/app/src/main/res/mipmap-hdpi/ic_launcher_round.png"
+        "merged": "/home/andrea/Scrivania/ChessMultiplayer/app/build/intermediates/res/merged/debug/drawable_ic_account_circle_primarycolor_24dp.xml.flat",
+        "source": "/home/andrea/Scrivania/ChessMultiplayer/app/src/main/res/drawable/ic_account_circle_primarycolor_24dp.xml"
     },
     {
-        "merged": "/home/andrea/Scrivania/Chess/app/build/intermediates/res/merged/debug/mipmap-mdpi_ic_launcher.png.flat",
-        "source": "/home/andrea/Scrivania/Chess/app/src/main/res/mipmap-mdpi/ic_launcher.png"
+        "merged": "/home/andrea/Scrivania/ChessMultiplayer/app/build/intermediates/res/merged/debug/drawable_dark.png.flat",
+        "source": "/home/andrea/Scrivania/ChessMultiplayer/app/src/main/res/drawable/dark.png"
     },
     {
-        "merged": "/home/andrea/Scrivania/Chess/app/build/intermediates/res/merged/debug/mipmap-xxhdpi_ic_launcher_round.png.flat",
-        "source": "/home/andrea/Scrivania/Chess/app/src/main/res/mipmap-xxhdpi/ic_launcher_round.png"
+        "merged": "/home/andrea/Scrivania/ChessMultiplayer/app/build/intermediates/res/merged/debug/drawable_suggested.png.flat",
+        "source": "/home/andrea/Scrivania/ChessMultiplayer/app/src/main/res/drawable/suggested.png"
     },
     {
-        "merged": "/home/andrea/Scrivania/Chess/app/build/intermediates/res/merged/debug/drawable_bb.png.flat",
-        "source": "/home/andrea/Scrivania/Chess/app/src/main/res/drawable/bb.png"
+        "merged": "/home/andrea/Scrivania/ChessMultiplayer/app/build/intermediates/res/merged/debug/layout_activity_room.xml.flat",
+        "source": "/home/andrea/Scrivania/ChessMultiplayer/app/src/main/res/layout/activity_room.xml"
     },
     {
-        "merged": "/home/andrea/Scrivania/Chess/app/build/intermediates/res/merged/debug/drawable_wp.png.flat",
-        "source": "/home/andrea/Scrivania/Chess/app/src/main/res/drawable/wp.png"
+        "merged": "/home/andrea/Scrivania/ChessMultiplayer/app/build/intermediates/res/merged/debug/layout_activity_intro.xml.flat",
+        "source": "/home/andrea/Scrivania/ChessMultiplayer/app/src/main/res/layout/activity_intro.xml"
     },
     {
-        "merged": "/home/andrea/Scrivania/Chess/app/build/intermediates/res/merged/debug/menu_menu_main.xml.flat",
-        "source": "/home/andrea/Scrivania/Chess/app/src/main/res/menu/menu_main.xml"
+        "merged": "/home/andrea/Scrivania/ChessMultiplayer/app/build/intermediates/res/merged/debug/drawable_bn.png.flat",
+        "source": "/home/andrea/Scrivania/ChessMultiplayer/app/src/main/res/drawable/bn.png"
     },
     {
-        "merged": "/home/andrea/Scrivania/Chess/app/build/intermediates/res/merged/debug/drawable_chess_set.png.flat",
-        "source": "/home/andrea/Scrivania/Chess/app/src/main/res/drawable/chess_set.png"
+        "merged": "/home/andrea/Scrivania/ChessMultiplayer/app/build/intermediates/res/merged/debug/mipmap-mdpi_ic_launcher_round.png.flat",
+        "source": "/home/andrea/Scrivania/ChessMultiplayer/app/src/main/res/mipmap-mdpi/ic_launcher_round.png"
     },
     {
-        "merged": "/home/andrea/Scrivania/Chess/app/build/intermediates/res/merged/debug/layout_content_main.xml.flat",
-        "source": "/home/andrea/Scrivania/Chess/app/src/main/res/layout/content_main.xml"
+        "merged": "/home/andrea/Scrivania/ChessMultiplayer/app/build/intermediates/res/merged/debug/mipmap-mdpi_ic_launcher.png.flat",
+        "source": "/home/andrea/Scrivania/ChessMultiplayer/app/src/main/res/mipmap-mdpi/ic_launcher.png"
     }
 ]

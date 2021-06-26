@@ -1,7 +1,7 @@
 {
     "logs": [
         {
-            "outputFile": "/home/andrea/Scrivania/Chess/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-id/values-id.xml",
+            "outputFile": "/home/andrea/Scrivania/ChessMultiplayer/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-id/values-id.xml",
             "map": [
                 {
                     "source": "/home/andrea/.gradle/caches/transforms-2/files-2.1/4160de0a77722205f359edc3c593dad4/jetified-facebook-common-5.0.1/res/values-id/values-id.xml",

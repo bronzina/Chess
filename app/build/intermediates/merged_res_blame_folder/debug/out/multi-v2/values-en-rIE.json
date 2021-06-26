@@ -1,7 +1,7 @@
 {
     "logs": [
         {
-            "outputFile": "/home/andrea/Scrivania/Chess/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-en-rIE/values-en-rIE.xml",
+            "outputFile": "/home/andrea/Scrivania/ChessMultiplayer/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-en-rIE/values-en-rIE.xml",
             "map": [
                 {
                     "source": "/home/andrea/.gradle/caches/transforms-2/files-2.1/e7e23ffe4bc3fd6fb8d8c9c1d163dcda/jetified-firebase-ui-auth-6.2.1/res/values-en-rIE/values-en-rIE.xml",
