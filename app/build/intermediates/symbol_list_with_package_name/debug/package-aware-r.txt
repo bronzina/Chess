@@ -2154,7 +2154,6 @@ id expanded_menu
 id fab
 id fabGithub
 id fabReturn
-id facebookSignInButton
 id fade
 id fill
 id fill_horizontal

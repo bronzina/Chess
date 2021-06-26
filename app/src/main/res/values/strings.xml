@@ -63,9 +63,6 @@
     <string name="facebook_app_id">4081998575187091</string>
     <string name="fb_login_protocol_scheme">fb4081998575187091</string>
 
-
-    <!--<string name="facebook_application_id">2913260648760848</string>-->
-    <!--<string name="fb_login_protocol_scheme">cd992a14f02b172645ee02262b5a44a2</string>-->
     <string name="fooText">Lorem</string>
 
     <string name="action_settings">Settings</string>
@@ -82,9 +79,8 @@
 
     <string name="liscence_stringc">Project developed by Andrea Luca Antonini</string>
 
-    <string name="myGithub">https://github.com/alaskalinuxuser</string>
+    <string name="myGithub">https://github.com/bronzina</string>
     <string name="extraInfo">If in landscape mode, you can scroll the board to play.</string>
 
-    <string name="myWebsite">https://thealaskalinuxuser.wordpress.com</string>
     <string name="starCount">Partial stars will be rounded. This may need to be adjusted after each game.</string>
 </resources>
