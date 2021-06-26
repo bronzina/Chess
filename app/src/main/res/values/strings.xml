@@ -1,0 +1,90 @@
+<resources>
+    <string name="app_name">Chess</string>
+
+    <string name="email">Email</string>
+    <string name="confirm_email">Confirm Email</string>
+    <string name="password">Password</string>
+    <string name="confirm_password">Confirm Password</string>
+    <string name="name">Name</string>
+    <string name="surname">Surname</string>
+    <string name="phone_number">Phone number</string>
+    <string name="enter_your_name">Enter your name</string>
+    <string name="enter_your_surname">Enter your surname</string>
+    <string name="enter_your_phone_number">Enter your phone number</string>
+    <string name="remember_me">Remember me</string>
+    <string name="submit">Submit</string>
+    <string name="title">Title</string>
+    <string name="author">Author</string>
+    <string name="isbn">ISBN</string>
+
+
+    <string name="home_navigation">Home</string>
+    <string name="profile_navigation">Profile</string>
+    <string name="settings_navigation">Settings</string>
+
+
+    <string name="login">Login</string>
+    <string name="log_out">Logout</string>
+    <string name="register">Register</string>
+    <string name="change_email">Change Email</string>
+    <string name="change_password">Change Password</string>
+    <string name="delete_account">Delete Account</string>
+    <string name="save">Save</string>
+    <string name="reset_password">Reset Password</string>
+    <string name="already_registered">Already registered</string>
+    <string name="start_text_recognition">Start Text\nRecognition</string>
+    <string name="capture_image">Capture Image</string>
+    <string name="detect_text">Detect Text</string>
+    <string name="load_image">Load Image</string>
+    <string name="copy_text">Copy Text</string>
+    <string name="info">Info</string>
+
+
+    <string name="sign_in">Sign In</string>
+    <string name="sign_up">Sign Up</string>
+    <string name="profile">Profile</string>
+    <string name="create_profile">Create Profile</string>
+    <string name="settings">Settings</string>
+    <string name="theme">Theme</string>
+    <string name="day">Day</string>
+    <string name="night">Night</string>
+    <string name="auto">Auto</string>
+    <string name="battery">Battery</string>
+    <string name="biometric_authentication">Use biometric authentication</string>
+
+
+    <string name="password_helper_text">Password must be at least 8 characters.</string>
+    <string name="forgot_password_msg">We just need your registered Email Id to sent you password reset instructions.</string>
+
+
+    <string name="Open">open drawer</string>
+    <string name="Close">close drawer</string>
+
+    <string name="facebook_app_id">4081998575187091</string>
+    <string name="fb_login_protocol_scheme">fb4081998575187091</string>
+
+
+    <!--<string name="facebook_application_id">2913260648760848</string>-->
+    <!--<string name="fb_login_protocol_scheme">cd992a14f02b172645ee02262b5a44a2</string>-->
+    <string name="fooText">Lorem</string>
+
+    <string name="action_settings">Settings</string>
+    <string name="action_logout">Logout</string>
+    <string name="title_activity_intro">ChessMultiplayer</string>
+    <string name="new_game">New Game</string>
+    <string name="title_activity_about">About ChessMultiplayer</string>
+    <string name="title_activity_settings">Settings</string>
+    <string name="title_activity_multiplayer">Multiplayer</string>
+    <string name="liscence_stringa">Final project for "Mobile application and cloud computing" course of Engineering in Computer Science, La Sapienza.
+    Site of the course</string>
+
+    <string name="liscence_stringb">https://corsidilaurea.uniroma1.it/it/corso/2020/30430/home</string>
+
+    <string name="liscence_stringc">Project developed by Andrea Luca Antonini</string>
+
+    <string name="myGithub">https://github.com/alaskalinuxuser</string>
+    <string name="extraInfo">If in landscape mode, you can scroll the board to play.</string>
+
+    <string name="myWebsite">https://thealaskalinuxuser.wordpress.com</string>
+    <string name="starCount">Partial stars will be rounded. This may need to be adjusted after each game.</string>
+</resources>

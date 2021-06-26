@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "409238621824",
+    "project_id": "chess-32d01",
+    "storage_bucket": "chess-32d01.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:409238621824:android:bb6bb7f1a497f32ef5a065",
+        "android_client_info": {
+          "package_name": "uni.bronzina.chess"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "409238621824-4h48vc01du45a118hkdrjk6dor8nd11f.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "uni.bronzina.chess",
+            "certificate_hash": "b51c1dde5ac575fca367c5ec8fe7bc4ff126d5a7"
+          }
+        },
+        {
+          "client_id": "409238621824-d94i9jf1l1mhqdcrpkl1fegehgqc2qev.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC0O3FgQkfIONCACz2LC6YXK_7-6cn71mE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "409238621824-d94i9jf1l1mhqdcrpkl1fegehgqc2qev.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
