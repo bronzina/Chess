@@ -105,7 +105,7 @@ public class SignInActivity extends AppCompatActivity {
 
         // Configure Facebook Sign In
         mCallbackManager = CallbackManager.Factory.create();
-        facebookSignInButton = findViewById(R.id.facebookSignInButton);
+        /*facebookSignInButton = findViewById(R.id.facebookSignInButton);
         facebookSignInButton.setReadPermissions("email", "public_profile");
         facebookSignInButton.registerCallback(mCallbackManager, new FacebookCallback<LoginResult>() {
             @Override
@@ -124,7 +124,7 @@ public class SignInActivity extends AppCompatActivity {
                 Log.d("FBLogin", "facebook:onError", error);
                 // ...
             }
-        });
+        });*/
 
         signInButton.setOnClickListener(new View.OnClickListener() {
             @Override
@@ -290,7 +290,7 @@ public class SignInActivity extends AppCompatActivity {
     }
 
     //FACEBOOK
-    private void handleAccessToken(AccessToken accessToken) {
+    /*private void handleAccessToken(AccessToken accessToken) {
         AuthCredential credential = FacebookAuthProvider.getCredential(accessToken.getToken());
         auth.signInWithCredential(credential).addOnCompleteListener(this, new OnCompleteListener<AuthResult>() {
             @Override
@@ -325,7 +325,7 @@ public class SignInActivity extends AppCompatActivity {
                 }
             }
         });
-    }
+    }*/
 
     private void navigateSignUp() {
         Intent intent = new Intent(this, SignUpActivity.class);
