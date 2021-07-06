@@ -3064,7 +3064,6 @@ string mtrl_picker_toggle_to_day_selection
 string mtrl_picker_toggle_to_text_input_mode
 string mtrl_picker_toggle_to_year_selection
 string myGithub
-string myWebsite
 string name
 string new_game
 string night

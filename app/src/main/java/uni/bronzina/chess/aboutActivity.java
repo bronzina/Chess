@@ -43,7 +43,7 @@ public class aboutActivity extends AppCompatActivity {
     // When they click on the github icon.
     public void myHubGit () {
 
-        goToUrl ( "https://github.com/alaskalinuxuser");
+        goToUrl ("https://github.com/bronzina");
 
     }
 
